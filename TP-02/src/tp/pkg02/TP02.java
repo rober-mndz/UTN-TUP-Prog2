@@ -2,16 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package tp01.introduccion_a_java;
+package tp.pkg02;
 
 /**
  *
- * @author Usuario
+ * @author Rober
  */
-public class TP01Introduccion_a_Java {
+public class TP02 {
 
-    public static void main(String[] args){
-        
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
     
 }
